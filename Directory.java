@@ -6,7 +6,7 @@ class Directory{
 
 
 	public static void main(String[] args){
-		Directory d = new Directory("/home/dsypasit/code/university/DirecTest/test");
+		Directory d = new Directory("test");
 		d.showDirectory();
 	}
 
